@@ -1,0 +1,25 @@
+{
+    "name": "uairango/JWKConverter",
+    "type"       : "library",
+    "description": "Adaptaçao JWKConverter para PHP 5.6",
+    "keywords"   : ["JWKConverter", "PHP5", "JWK"],
+    "homepage": "http://www.uairango.com",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "João Paulo",
+        "email": "jpmdik@gmail.com",
+        "role": "Developer",
+        "homepage": "https://www.jpmdik.com.br"
+      }
+    ],
+    "require": {
+      "php": "^5.6",
+      "phpseclib/phpseclib": "~2.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "UaiRango\\JWKToPEM\\": "src/"
+      }
+    }
+  }
