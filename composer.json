@@ -1,5 +1,5 @@
 {
-    "name": "uairango/JWKConverter",
+    "name": "uairango/jwk-converter",
     "type"       : "library",
     "description": "Adaptaçao JWKConverter para PHP 5.6",
     "keywords"   : ["JWKConverter", "PHP5", "JWK"],
